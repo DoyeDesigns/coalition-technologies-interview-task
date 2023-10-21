@@ -190,3 +190,5 @@ export default function Home() {
     </main>
   );
 };
+
+// I used chatgpt to assist me create the carousel and material ui for the navigation bar and accordion. tailwind css for styling
